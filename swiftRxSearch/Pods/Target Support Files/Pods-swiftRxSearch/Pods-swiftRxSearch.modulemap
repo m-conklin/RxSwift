@@ -1,0 +1,6 @@
+framework module Pods_swiftRxSearch {
+  umbrella header "Pods-swiftRxSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

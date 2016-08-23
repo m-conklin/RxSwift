@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'swiftRxMoya' do
+
+pod 'Moya/RxSwift'
+pod 'Moya-ModelMapper/RxSwift'
+pod 'RxCocoa'
+pod 'RxOptional'
+
+end
